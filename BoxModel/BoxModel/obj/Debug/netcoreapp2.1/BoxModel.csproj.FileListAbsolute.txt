@@ -1,0 +1,9 @@
+D:\git\BoxModel\BoxModel\bin\Debug\netcoreapp2.1\BoxModel.deps.json
+D:\git\BoxModel\BoxModel\bin\Debug\netcoreapp2.1\BoxModel.dll
+D:\git\BoxModel\BoxModel\bin\Debug\netcoreapp2.1\BoxModel.pdb
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.csprojAssemblyReference.cache
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.csproj.CoreCompileInputs.cache
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.AssemblyInfoInputs.cache
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.AssemblyInfo.cs
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.dll
+D:\git\BoxModel\BoxModel\obj\Debug\netcoreapp2.1\BoxModel.pdb
